@@ -1,1 +1,1 @@
-# baitap_javascript_05_0cc175b
+# Chữa bài tập JS số 5
